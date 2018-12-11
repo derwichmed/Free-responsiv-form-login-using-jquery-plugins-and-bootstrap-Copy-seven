@@ -1,0 +1,16 @@
+body,html{
+    background-color: #ed4961;
+    height: 100%
+}
+.form_login{
+    height: 100%;
+}
+.form_login_desc,.form_login_content{
+    height: 300px;
+}
+.form_login_content{
+    background-color: white;
+    border: #ecacba 2px solid;
+    border-radius: 2px;
+    padding: 20px
+}
